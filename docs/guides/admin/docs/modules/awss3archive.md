@@ -36,6 +36,7 @@ The Opencast AWS S3 Archive service has four configuration keys which can be fou
 |org.opencastproject.archive.aws.s3.bucket|The S3 bucket name|example-org-archive|
 |org.opencastproject.archive.aws.s3.access.id|Your access ID|20 alphanumeric characters|
 |org.opencastproject.archive.aws.s3.secret.key|Your secret key|40 characters|
+|org.opencastproject.archive.aws.s3.endpoint|Your S3 endpoint|URI|
 
 Using S3 Archiving
 ------------------
